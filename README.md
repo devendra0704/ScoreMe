@@ -11,7 +11,6 @@ Built with **Vite + React + Tailwind CSS** on the frontend, and **Node.js + Expr
 - Extract all detectable **tabular data**.
 - Download the result in **Excel (.xlsx)** format.
 - Clean UI with responsive design.
-- Supports most **digitally generated PDFs**.
 
 ---
 
