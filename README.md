@@ -60,9 +60,9 @@ npm run dev
 
 
 ### Required Python packages:
--- fitz  # PyMuPDF
--- pillow
--- pytesseract
--- pandas
+- fitz  # PyMuPDF
+- pillow
+- pytesseract
+- pandas
 
 
