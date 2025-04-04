@@ -17,16 +17,16 @@ Built with **Vite + React + Tailwind CSS** on the frontend, and **Node.js + Expr
 
 ## 🖼️ Demo
 
--- [Demo Video](https://drive.google.com/file/d/1JBwbFkgkLRYpMfLwNLQGqvMGpGqFsAnN/view?usp=drive_link)
+- [Demo Video](https://drive.google.com/file/d/1JBwbFkgkLRYpMfLwNLQGqvMGpGqFsAnN/view?usp=drive_link)
 
 ---
 
 ## 🧱 Tech Stack
 
 ### Frontend
--**Frontend:** React + Vite + Tailwind CSS
--**Backend:** Node.js + Express + Multer
--**PDF Processing:** Python (PyMuPDF, pytesseract, PIL, pandas)
+- **Frontend:** React + Vite + Tailwind CSS
+- **Backend:** Node.js + Express + Multer
+- **PDF Processing:** Python (PyMuPDF, pytesseract, PIL, pandas)
 
 ---
 
