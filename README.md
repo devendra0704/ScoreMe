@@ -17,25 +17,52 @@ Built with **Vite + React + Tailwind CSS** on the frontend, and **Node.js + Expr
 
 ## 🖼️ Demo
 
-> Coming soon (or insert link if hosted on Vercel / Netlify)
+-- [Demo Video](https://drive.google.com/file/d/1JBwbFkgkLRYpMfLwNLQGqvMGpGqFsAnN/view?usp=drive_link)
 
 ---
 
 ## 🧱 Tech Stack
 
 ### Frontend
-- React
-- Vite
-- Tailwind CSS
-- Axios
-
-### Backend
-- Node.js
-- Express.js
-- Multer (file upload middleware)
-- xlsx (Excel file generation)
+-**Frontend:** React + Vite + Tailwind CSS
+-**Backend:** Node.js + Express + Multer
+-**PDF Processing:** Python (PyMuPDF, pytesseract, PIL, pandas)
 
 ---
 
-## 📁 Project Structure
+## ⚙️ How to Run the Project Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/devendra0704/ScoreMe
+cd ScoreMe
+```
+### 2.Install Dependencies
+**Frontend**
+```bash
+cd client
+npm install
+```
+
+**backend**
+```bash
+cd ../server
+npm install
+```
+
+### 3. Start the Development Server
+
+```bash
+npm run dev
+```
+---This command starts both the frontend and backend concurrently using concurrently.
+
+
+### Required Python packages:
+-- fitz  # PyMuPDF
+-- pillow
+-- pytesseract
+-- pandas
+
 
