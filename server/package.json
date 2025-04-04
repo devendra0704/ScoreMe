@@ -1,0 +1,24 @@
+{
+  "name": "scoreme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.2",
+    "pdf-table-extractor": "^1.0.3",
+    "pdfjs-dist": "^5.1.91",
+    "xlsx": "^0.18.5"
+  }
+}
